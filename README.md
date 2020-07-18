@@ -2,7 +2,7 @@
 
 🔭
 
-![Alt text](images/moon.jpg)
+![Alt text](https://raw.githubusercontent.com/zongzhang/zongzhang/master/images/moon.jpg)
 
 <!--
 **zongzhang/zongzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
