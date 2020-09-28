@@ -2,7 +2,7 @@
 
 🔭
 
-![Alt text](https://raw.githubusercontent.com/zongzhang/zongzhang/master/images/moon.jpg)
+<!--![Alt text](https://raw.githubusercontent.com/zongzhang/zongzhang/master/images/moon.jpg)-->
 
 [![zongzhang's github stats](https://github-readme-stats.vercel.app/api?username=zongzhang&theme=bear&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
