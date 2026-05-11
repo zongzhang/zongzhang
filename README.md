@@ -4,7 +4,7 @@
 
 <!--![Alt text](https://raw.githubusercontent.com/zongzhang/zongzhang/master/images/moon.jpg)-->
 
-[![zongzhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=zongzhang&show_icons=true&theme=radical)
+[![zongzhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=zongzhang&show_icons=true&theme=radical)]
 
 <!--
 **zongzhang/zongzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
