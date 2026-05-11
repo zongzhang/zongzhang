@@ -4,9 +4,7 @@
 
 <!--![Alt text](https://raw.githubusercontent.com/zongzhang/zongzhang/master/images/moon.jpg)-->
 
-[![zongzhang's github stats](https://github-readme-stats.vercel.app/api?username=zongzhang&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zongzhang&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+[![zongzhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=zongzhang&show_icons=true&theme=radical)
 
 <!--
 **zongzhang/zongzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
